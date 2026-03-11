@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/beholder/conkystart.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Conky
