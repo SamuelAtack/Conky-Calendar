@@ -1,0 +1,10 @@
+configuration {
+    modi: "drun,window,run";
+    show-icons:     true;
+    icon-theme:     "hicolor";
+    drun-display-format: "{name}";
+    window-format:  "{w} · {t}";
+    normal-window:  true;
+}
+
+@theme "teal"
