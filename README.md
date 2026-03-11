@@ -71,28 +71,6 @@ gsettings set org.gnome.shell.extensions.dash-to-dock autohide true
 gsettings set org.gnome.shell.extensions.dash-to-dock dock-fixed false
 ```
 
-## File Structure
-```
-gorgon-dots/
-├── README.md
-├── conky/
-│   ├── conkyrc
-│   ├── conky-cal.sh
-│   └── conkystart.sh
-├── polybar/
-│   ├── config.ini
-│   └── launch.sh
-├── rofi/
-│   ├── config.rasi
-│   ├── teal.rasi
-│   └── launch.sh
-├── starship/
-│   └── starship.toml
-└── autostart/
-    ├── conky.desktop
-    └── polybar.desktop
-```
-
 ## Languages
 - Lua + Conky markup (conkyrc)
 - Bash (shell scripts)
